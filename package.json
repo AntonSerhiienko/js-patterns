@@ -1,0 +1,23 @@
+{
+  "name": "js-patterns",
+  "version": "1.0.0",
+  "description": "Just a repo for studying patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha */*.test.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonSerhiienko/js-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonSerhiienko/js-patterns/issues"
+  },
+  "homepage": "https://github.com/AntonSerhiienko/js-patterns#readme",
+  "devDependencies": {
+    "istanbul": "^0.4.2",
+    "mocha": "^2.4.5"
+  }
+}
